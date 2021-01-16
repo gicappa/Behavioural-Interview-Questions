@@ -1,9 +1,11 @@
 # Interview Questions
 
 ## Amazon
-Try practicing from Geeks For Geeks and Leetcode. These sites contain enough resource to practice for coding interviews. Codechef is also a good choice once you get some exposure to basic concepts and are able to come up with your own logics without hints.
-Given a number x and y, reach from x to y in minimum no of operations. Operations allowed x/2, x+1, x-1. return min no of operations
-Round 1. Design Parking lot. OO design question. Focused on class design. Also chatted about multi-threading and design patter. Round2 Leetcode: Find mean from input stream. Round3 Leetcode. Bomb enemy. Behavior question, what's your biggest achievement. Round4 Leetcode Island perimeter. Behavior question: how do you assess your current boss, which area he needs to improve. Round5 Behavior question, bar raiser. How do you handle difference between you and your boss. How do you hanle work pressure and how do you blance work and life.
+### Behavioural
+### Technical
+* Try practicing from Geeks For Geeks and Leetcode. These sites contain enough resource to practice for coding interviews. Codechef is also a good choice once you get some exposure to basic concepts and are able to come up with your own logics without hints.
+* Given a number x and y, reach from x to y in minimum no of operations. Operations allowed x/2, x+1, x-1. return min no of operations
+* Round 1. Design Parking lot. OO design question. Focused on class design. Also chatted about multi-threading and design patter. Round2 Leetcode: Find mean from input stream. Round3 Leetcode. Bomb enemy. Behavior question, what's your biggest achievement. Round4 Leetcode Island perimeter. Behavior question: how do you assess your current boss, which area he needs to improve. Round5 Behavior question, bar raiser. How do you handle difference between you and your boss. How do you hanle work pressure and how do you blance work and life.
 
 Read leadership princinple well before you go to the interview.  14 leadership
 Tell me about one time you had critical feedback
