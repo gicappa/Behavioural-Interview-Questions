@@ -2,16 +2,23 @@
 
 ## Amazon
 ### Behavioural
-### Technical
-* Try practicing from Geeks For Geeks and Leetcode. These sites contain enough resource to practice for coding interviews. Codechef is also a good choice once you get some exposure to basic concepts and are able to come up with your own logics without hints.
-* Given a number x and y, reach from x to y in minimum no of operations. Operations allowed x/2, x+1, x-1. return min no of operations
-* Round 1. Design Parking lot. OO design question. Focused on class design. Also chatted about multi-threading and design patter. Round2 Leetcode: Find mean from input stream. Round3 Leetcode. Bomb enemy. Behavior question, what's your biggest achievement. Round4 Leetcode Island perimeter. Behavior question: how do you assess your current boss, which area he needs to improve. Round5 Behavior question, bar raiser. How do you handle difference between you and your boss. How do you hanle work pressure and how do you blance work and life.
+* What's your biggest achievement
+* How do you assess your current boss, which area he needs to improve.
+* How do you handle difference between you and your boss.
+* How do you hanle work pressure and how do you blance work and life.
+* What are the 14 Leadership Principles of Amazon.
+* Tell me about one time you had critical feedback.
 
-Read leadership princinple well before you go to the interview.  14 leadership
-Tell me about one time you had critical feedback
-Which algorithm works best for shipping?
-. in an unsorted array of stock prices throughout a year, find the point when to buy and when to sell so as to maximize profit. 2. How will you compare 2 files with millions of customer ids?
-The programming test was to basically recreate the queue library.\
+### Technical
+* Design Parking lot focused on class design. 
+* Name some multi-threading pattern.
+* Find the mean from an input stream.
+* Leetcode: Bomb enemy.  
+* Leetcode: Island perimeter. 
+* Which algorithm works best for shipping?
+* In an unsorted array of stock prices throughout a year, find the point when to buy and when to sell so as to maximize profit. 
+* How will you compare 2 files with millions of customer ids?
+* Code a queue library.
 Tree sum. Replace a node's value with sum of it's children
  Given a number x and y, reach from x to y in minimum no of operations. Operations allowed x/2, x+1, x-1. return min no of operations
 How do you Implement Tim Sort?
